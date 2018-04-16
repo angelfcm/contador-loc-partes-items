@@ -1,0 +1,19 @@
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\bin\Debug\CodeMetrics.exe.config
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\bin\Debug\CodeMetrics.exe
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\bin\Debug\CodeMetrics.pdb
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.csprojResolveAssemblyReference.cache
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.AppCtrlForm.resources
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.Properties.Resources.resources
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.csproj.GenerateResource.Cache
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.exe
+C:\Users\angel\Google Drive\Tareas ITS\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.pdb
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\bin\Debug\CodeMetrics.exe.config
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\bin\Debug\CodeMetrics.exe
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\bin\Debug\CodeMetrics.pdb
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.AppCtrlForm.resources
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.Properties.Resources.resources
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.csproj.GenerateResource.cache
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.exe
+C:\Users\Angel\Google Drive\Archivos Escolares ITSZ\8vo Semestre\PSP\Parcial 1\contador-loc-partes-items\App\CodeMetrics\CodeMetrics\obj\Debug\CodeMetrics.pdb
